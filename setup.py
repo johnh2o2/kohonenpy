@@ -12,7 +12,4 @@ setup(name='kohonen',
       packages=['kohonen'],
       requires=['matplotlib', 'sklearn', 'numpy', 'scipy'],
       provides=['kohonen']
-      #py_modules = [ 'vislc', 'defaults', 'vlcutils']
-      #package_data={'mypkg': ['data/*.dat']},
-      #packages=['pyvislc' ],
-     )
+)
