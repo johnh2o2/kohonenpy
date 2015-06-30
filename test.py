@@ -1,3 +1,6 @@
+"""
+Tests the kohonen module; 
+"""
 import numpy as np
 from math import *
 from kohonen import *
